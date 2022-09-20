@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:title="English"
+        app:showAsAction="always"
+        android:icon="@drawable/english"
+        android:id="@+id/english"/>
+    <item android:title="French"
+        app:showAsAction="always"
+        android:icon="@drawable/french"
+        android:id="@+id/french"/>
+    <item android:title="Choose Language"
+        app:showAsAction="always"/>
+</menu>

@@ -1,0 +1,114 @@
+<resources>
+    <string name="app_name">HiddenWord</string>
+    <array name="words">
+        <item>tigger</item>
+        <item>citation</item>
+        <item>stressful</item>
+        <item>careless</item>
+        <item>careful</item>
+        <item>famous</item>
+        <item>unknown</item>
+        <item>meaning</item>
+       <item>meaning</item>
+        <item>ambitious</item>
+        <item>property</item>
+        <item>bird</item>
+        <item>tree</item>
+        <item>machine</item>
+        <item>followers</item>
+        <item>identity</item>
+        <item>colorful</item>
+        <item>great</item>
+        <item>father</item>
+        <item>mother</item>
+        <item>empty</item>
+        <item>possible</item>
+        <item>success</item>
+        <item>failure</item>
+        <item>thoughts</item>
+        <item>busy</item>
+        <item>priest</item>
+        <item>backward</item>
+        <item>hopeless</item>
+        <item>sunrise</item>
+        <item>moonlight</item>
+        <item>essential</item>
+        <item>important</item>
+        <item>useless</item>
+        <item>tiger</item>
+        <item>dairy</item>
+        <item>elephant</item>
+        <item>giraffe</item>
+        <item>horse</item>
+        <item>pan</item>
+        <item>fork</item>
+        <item>knife</item>
+        <item>downtown</item>
+        <item>country</item>
+        <item>flag</item>
+        <item>money</item>
+        <item>picture</item>
+        <item>animal</item>
+        <item>people</item>
+    </array>
+    <string name="submit">Submit</string>
+    <string name="score">Your score</string>
+    <string name="success">Well done</string>
+    <string name="failure">Try another word</string>
+    <string name="new_game">Choose New Word</string>
+    <string name="start">Start</string>
+    <string name="congratulation">Sorry times is over, the hidden word is:</string>
+    <string name="time">Time</string>
+
+    <array name="mots">
+        <item>tigre</item>
+        <item>citation</item>
+        <item>stress</item>
+        <item>amitié</item>
+        <item>sensible</item>
+        <item>fameux</item>
+        <item>inconnu</item>
+        <item>sense</item>
+        <item>sensible</item>
+        <item>ambitieux</item>
+        <item>propriété</item>
+        <item>oiseau</item>
+        <item>arbre</item>
+        <item>machine</item>
+        <item>disciples</item>
+        <item>identité</item>
+        <item>coloré</item>
+        <item>grandiose</item>
+        <item>père</item>
+        <item>mère</item>
+        <item>vicieux</item>
+        <item>possible</item>
+        <item>succés</item>
+        <item>echec</item>
+        <item>pensées</item>
+        <item>occupé</item>
+        <item>prêtre</item>
+        <item>arrière</item>
+        <item>étoile</item>
+        <item>galaxie</item>
+        <item>rivière</item>
+        <item>essentiel</item>
+        <item>important</item>
+        <item>inutile</item>
+        <item>famine</item>
+        <item>laitage</item>
+        <item>éléphant</item>
+        <item>girafe</item>
+        <item>cheval</item>
+        <item>casserole</item>
+        <item>four</item>
+        <item>couteau</item>
+        <item>cuisine</item>
+        <item>pays</item>
+        <item>drapeau</item>
+        <item>monnaie</item>
+        <item>image</item>
+        <item>animale</item>
+        <item>personnes</item>
+    </array>
+</resources>
